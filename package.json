@@ -12,7 +12,9 @@
   "dependencies": {
     "@types/rc": "^1.1.0",
     "rc": "^1.2.8",
-    "telegraf": "^3.37.0",
+    "telegraf": "^3.37.0"
+  },
+  "devDependencies": {
     "typescript": "^3.8.3"
   }
 }
